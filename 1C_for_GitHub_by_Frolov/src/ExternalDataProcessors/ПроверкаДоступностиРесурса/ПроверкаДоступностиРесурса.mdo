@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="35bcdedf-f846-4a94-933f-8b89b46c0269">
+  <producedTypes>
+    <objectType typeId="f9117cf0-b984-403f-a2b3-d171d3b5c8fe" valueTypeId="81e00da7-21f6-4e9b-9c5a-0bdbc4da270d"/>
+  </producedTypes>
+  <name>ПроверкаДоступностиРесурса</name>
+  <synonym>
+    <key>ru</key>
+    <value>Проверка доступности ресурса</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="6a03e212-790e-4223-b382-55431bc4d8d1"/>
+  <defaultForm>ExternalDataProcessor.ПроверкаДоступностиРесурса.Form.Форма</defaultForm>
+  <forms uuid="55cfc163-9fb6-446a-9058-ef4c3890e812">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
