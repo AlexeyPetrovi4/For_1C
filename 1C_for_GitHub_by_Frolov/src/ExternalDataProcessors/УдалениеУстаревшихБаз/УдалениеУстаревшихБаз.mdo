@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="374ec7cf-6ab7-4e46-ae10-27ef2125af72">
+  <producedTypes>
+    <objectType typeId="cd2f4c60-2887-4e81-a09a-950bb11cff59" valueTypeId="52e59af9-22b4-4a1b-beb6-fe00f2244487"/>
+  </producedTypes>
+  <name>УдалениеУстаревшихБаз</name>
+  <synonym>
+    <key>ru</key>
+    <value>Удаление устаревших баз</value>
+  </synonym>
+  <comment>1.0</comment>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="de7e0eb3-e493-4aba-93f6-3b54061c5a2e"/>
+  <defaultForm>ExternalDataProcessor.УдалениеУстаревшихБаз.Form.Форма</defaultForm>
+  <forms uuid="d447a923-bb74-4c70-92e0-47c8466abb17">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
